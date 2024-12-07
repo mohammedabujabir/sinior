@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technipal\\source\\MVC\\Land\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|solutionrelative:land.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|solutionrelative:land.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.dal\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|solutionrelative:land.dal\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.dal\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9666629-453D-4DEC-B1D0-82C5E20B9C7E}|Land.DAL\\Land.DAL.csproj|solutionrelative:land.dal\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3D5352-3D1F-457C-892E-720F230EB834}|Land.PL\\Land.PL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.pl\\areas\\dashboard\\controllers\\citizenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3D5352-3D1F-457C-892E-720F230EB834}|Land.PL\\Land.PL.csproj|solutionrelative:land.pl\\areas\\dashboard\\controllers\\citizenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3D5352-3D1F-457C-892E-720F230EB834}|Land.PL\\Land.PL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.pl\\areas\\dashboard\\views\\citizens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3D5352-3D1F-457C-892E-720F230EB834}|Land.PL\\Land.PL.csproj|solutionrelative:land.pl\\areas\\dashboard\\views\\citizens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3D5352-3D1F-457C-892E-720F230EB834}|Land.PL\\Land.PL.csproj|c:\\users\\technipal\\source\\mvc\\land\\land.pl\\areas\\dashboard\\views\\citizens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3D5352-3D1F-457C-892E-720F230EB834}|Land.PL\\Land.PL.csproj|solutionrelative:land.pl\\areas\\dashboard\\views\\citizens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Court.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Models\\Court.cs",
+              "RelativeDocumentMoniker": "Land.DAL\\Models\\Court.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Models\\Court.cs",
+              "RelativeToolTip": "Land.DAL\\Models\\Court.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:10:14.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Land.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Land.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:04:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Land.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Land.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:04:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "Land.DAL\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.DAL\\Models\\Citizen.cs",
+              "RelativeToolTip": "Land.DAL\\Models\\Citizen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:04:32.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CitizensController.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.PL\\Areas\\Dashboard\\Controllers\\CitizensController.cs",
+              "RelativeDocumentMoniker": "Land.PL\\Areas\\Dashboard\\Controllers\\CitizensController.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.PL\\Areas\\Dashboard\\Controllers\\CitizensController.cs",
+              "RelativeToolTip": "Land.PL\\Areas\\Dashboard\\Controllers\\CitizensController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:47:44.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Index.cshtml",
+              "RelativeToolTip": "Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:16:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Create.cshtml",
+              "RelativeDocumentMoniker": "Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Technipal\\source\\MVC\\Land\\Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Create.cshtml",
+              "RelativeToolTip": "Land.PL\\Areas\\Dashboard\\Views\\Citizens\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:16:19.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

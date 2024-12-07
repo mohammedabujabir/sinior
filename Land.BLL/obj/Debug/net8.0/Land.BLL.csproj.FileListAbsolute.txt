@@ -1,0 +1,15 @@
+C:\Users\Technipal\source\MVC\Land\Land.BLL\bin\Debug\net8.0\Land.BLL.deps.json
+C:\Users\Technipal\source\MVC\Land\Land.BLL\bin\Debug\net8.0\Land.BLL.dll
+C:\Users\Technipal\source\MVC\Land\Land.BLL\bin\Debug\net8.0\Land.BLL.pdb
+C:\Users\Technipal\source\MVC\Land\Land.BLL\bin\Debug\net8.0\Land.DAL.dll
+C:\Users\Technipal\source\MVC\Land\Land.BLL\bin\Debug\net8.0\Land.DAL.pdb
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.csproj.AssemblyReference.cache
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.AssemblyInfoInputs.cache
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.AssemblyInfo.cs
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.csproj.Up2Date
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.dll
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\refint\Land.BLL.dll
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\Land.BLL.pdb
+C:\Users\Technipal\source\MVC\Land\Land.BLL\obj\Debug\net8.0\ref\Land.BLL.dll

@@ -1,0 +1,14 @@
+C:\Users\Technipal\source\MVC\Land\Land.DAL\bin\Debug\net8.0\Land.DAL.deps.json
+C:\Users\Technipal\source\MVC\Land\Land.DAL\bin\Debug\net8.0\Land.DAL.dll
+C:\Users\Technipal\source\MVC\Land\Land.DAL\bin\Debug\net8.0\Land.DAL.pdb
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.AssemblyInfoInputs.cache
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.AssemblyInfo.cs
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.dll
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\refint\Land.DAL.dll
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.pdb
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\ref\Land.DAL.dll
+C:\Users\Technipal\source\MVC\Land\Land.DAL\bin\Debug\net8.0\Land.DAL.runtimeconfig.json
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.csproj.AssemblyReference.cache
+C:\Users\Technipal\source\MVC\Land\Land.DAL\obj\Debug\net8.0\Land.DAL.genruntimeconfig.cache
